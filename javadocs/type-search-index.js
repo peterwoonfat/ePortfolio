@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"eportfolio","l":"Investment"},{"p":"eportfolio","l":"MutualFund"},{"p":"eportfolio","l":"Portfolio"},{"p":"eportfolio","l":"Stock"}]

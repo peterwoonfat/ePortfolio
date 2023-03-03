@@ -1,6 +1,4 @@
 Name: Peter Woon-Fat
-Student ID: 1048220
-Assignment: CIS2430 Assignment 3
 Program Files: Portfolio.java, Stock.java, MutualFund.java, Investment.java
 Portfolio.java is the file with the main to be run.
 
